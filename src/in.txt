@@ -6,4 +6,4 @@ F3     P5     E--B
 
 F4     P7     F--D
 
-F5     P6     D--B
+F5     P6     D--X
